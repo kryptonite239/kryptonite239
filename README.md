@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+# Leet Code Stats
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Kailash_205)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **kryptonite239/kryptonite239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
