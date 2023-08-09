@@ -1,17 +1,13 @@
-### Hi there 👋
-# Leet Code Stats
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kailash+Choudhary....;Nice+to+meet+you!&center=true&size=15" width="100%"></img>
+# 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryptonite239&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryptonite239&theme=dracula&layout=compact)
+#
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Kailash_205&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-<!--
-**kryptonite239/kryptonite239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kryptonite239&repo=Link_Folio&theme=dracula)](https://github.com/kryptonite239/Link_Folio)
+#
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kryptonite239&repo=Article-Summarizer&theme=dracula)](https://github.com/kryptonite239/Link_Folio)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
